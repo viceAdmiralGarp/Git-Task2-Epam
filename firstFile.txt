@@ -1,9 +1,18 @@
+<<<<<<< Updated upstream
 10
 20
 3
 4
 50
 60
+=======
+>>>>>>> Stashed changes
+1
+2
+Some
+Text
+55000
+50000
 7
 8
 16
